@@ -1,0 +1,12 @@
+{
+  "name": "cuekeeper-bin-0.4",
+  "version": "1.0.0",
+  "description": "CueKeeper =========",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
